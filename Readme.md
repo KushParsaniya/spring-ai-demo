@@ -91,7 +91,7 @@ Groq is a platform designed for high-performance AI workloads, enabling efficien
 
 ### **Signup Process**
 
-1. Visit the [Groq Signup Page](https://groq.com/signup).
+1. Visit the [Groq Signup Page](https://console.groq.com/login).
 2. Provide the required details and create an account.
 3. Verify your email address and log in to the Groq dashboard.
 
@@ -123,6 +123,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 ## **Contact**
-For questions or feedback, reach out via the GitHub Issues page at [https://github.com/spring-projects/spring-ai/discussions].
+For questions or feedback, reach out via the GitHub Issues page at [Spring AI discussion](https://github.com/spring-projects/spring-ai/discussions).
 
 Happy coding!
