@@ -123,6 +123,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 ## **Contact**
-For questions or feedback, reach out via the GitHub Issues page or contact us directly at [support@springai.com](mailto:support@springai.com).
+For questions or feedback, reach out via the GitHub Issues page at [https://github.com/spring-projects/spring-ai/discussions].
 
 Happy coding!
